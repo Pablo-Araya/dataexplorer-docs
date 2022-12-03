@@ -13,7 +13,7 @@ Concatenates between 1 and 64 arguments.
 
 ## Syntax
 
-`strcat(`*argument1*, *argument2*[, *argumentN*]`)`
+`strcat(`*argument1*, *argument2*, [*argumentN*]`)`
 
 ## Arguments
 
